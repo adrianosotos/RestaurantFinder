@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb1d622a-47a1-4b91-99a5-c8f7eb56b650" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/api/RestaurantMatcherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/FindRestaurants.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/FindRestaurants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/MatchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/MatchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/SortRestaurants.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/SortRestaurants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/SearchCriteria/SearchCriteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/SearchCriteria/SearchCriteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/ports/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/ports/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/utils/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/utils/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/utils/RestaurantComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/utils/RestaurantComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/utils/UseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/core/utils/UseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/BestMatchRestaurantApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/BestMatchRestaurantApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/cli/RestaurantsCLI.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/cli/RestaurantsCLI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/config/FindRestaurantsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/config/FindRestaurantsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/config/ScannerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/config/ScannerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/config/SortRestaurantsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/config/SortRestaurantsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/GetRestaurants.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/cli/services/GetRestaurants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/InitCLI.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/cli/services/InitCLI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/PrintRestaurantTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/cli/services/PrintRestaurantTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/ReadIntInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/cli/services/ReadIntInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/ReadStringInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/cli/services/ReadStringInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/SelectNthRestaurants.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/external/cli/services/SelectNthRestaurants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/infra/adapters/db/CsvRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/infra/adapters/db/CsvRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/infra/db/cuisines.csv" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/infra/db/cuisines.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/infra/db/restaurants.csv" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/bestmatchedrestaurantsadrianosotos/demo/infra/db/restaurants.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/TestUtils/TestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/TestUtils/TestUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/RestaurantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/RestaurantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/FindRestaurantsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/FindRestaurantsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/MatchCriteriaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/MatchCriteriaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/SortRestaurantsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/Restaurant/services/SortRestaurantsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/SearchCriteria/SearchCriteriaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/domains/SearchCriteria/SearchCriteriaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/utils/RestaurantComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/core/utils/RestaurantComparatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/cli/RestaurantsCLITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/cli/RestaurantsCLITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/GetRestaurantsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/GetRestaurantsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/InitCLITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/InitCLITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/PrintRestaurantTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/PrintRestaurantTableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/ReadIntInputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/ReadIntInputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/ReadStringInputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/ReadStringInputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/SelectNthRestaurantsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/external/services/SelectNthRestaurantsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/infra/adapters/db/CsvRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/bestmatchedrestaurantsadrianosotos/demo/infra/adapters/db/CsvRepositoryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2gjDhyhkPfGYuBVjm4K2rqecINp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb1d622a-47a1-4b91-99a5-c8f7eb56b650" name="Changes" comment="" />
+      <created>1716202278349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716202278349</updated>
+    </task>
+    <servers />
+  </component>
+</project>
