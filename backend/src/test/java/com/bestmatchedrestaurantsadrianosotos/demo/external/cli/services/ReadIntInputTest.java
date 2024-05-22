@@ -1,6 +1,5 @@
 package com.bestmatchedrestaurantsadrianosotos.demo.external.cli.services;
 
-import com.bestmatchedrestaurantsadrianosotos.demo.external.cli.services.ReadIntInput;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import java.io.ByteArrayInputStream;
@@ -14,7 +13,7 @@ public class ReadIntInputTest {
 
     @BeforeEach
     public void setUp() {
-        String input = "123\n"; // Simulated user input
+        String input = "123\n";
         InputStream in = new ByteArrayInputStream(input.getBytes());
         Scanner scanner = new Scanner(in);
         readIntInput = new ReadIntInput(scanner);

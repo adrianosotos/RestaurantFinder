@@ -1,6 +1,5 @@
 package com.bestmatchedrestaurantsadrianosotos.demo.external.cli.services;
 
-import com.bestmatchedrestaurantsadrianosotos.demo.external.cli.services.ReadStringInput;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import java.io.ByteArrayInputStream;

@@ -24,7 +24,7 @@ public class MatchCriteriaTest {
 
     @Test
     public void testMatchCriteria_NoCriteriaSet() {
-        SearchCriteria criteria = new SearchCriteria(); // No criteria set
+        SearchCriteria criteria = new SearchCriteria();
         Restaurant restaurant = TestUtils.createRestaurant("Any Restaurant", 3, 2, 30, "French");
 
         Pair<SearchCriteria, Restaurant> input = new Pair(criteria, restaurant);
@@ -115,4 +115,3 @@ public class MatchCriteriaTest {
         assertFalse(result, "Restaurant cuisine should not match");
     }
 }
-

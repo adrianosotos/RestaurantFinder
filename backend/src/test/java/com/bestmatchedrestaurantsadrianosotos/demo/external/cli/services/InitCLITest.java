@@ -2,7 +2,6 @@ package com.bestmatchedrestaurantsadrianosotos.demo.external.cli.services;
 
 import com.bestmatchedrestaurantsadrianosotos.demo.TestUtils.TestUtils;
 import com.bestmatchedrestaurantsadrianosotos.demo.core.domains.Restaurant.Restaurant;
-import com.bestmatchedrestaurantsadrianosotos.demo.external.cli.services.*;
 import com.bestmatchedrestaurantsadrianosotos.demo.external.services.GetRestaurants;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -24,7 +23,6 @@ import static org.mockito.Mockito.*;
 @ExtendWith(MockitoExtension.class)
 public class InitCLITest {
     private InitCLI initCLI;
-    private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
 
     @Mock
     Scanner scanner;

@@ -2,7 +2,6 @@ package com.bestmatchedrestaurantsadrianosotos.demo.external.cli.services;
 
 import com.bestmatchedrestaurantsadrianosotos.demo.TestUtils.TestUtils;
 import com.bestmatchedrestaurantsadrianosotos.demo.core.domains.Restaurant.Restaurant;
-import com.bestmatchedrestaurantsadrianosotos.demo.external.cli.services.PrintRestaurantTable;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import java.io.ByteArrayOutputStream;

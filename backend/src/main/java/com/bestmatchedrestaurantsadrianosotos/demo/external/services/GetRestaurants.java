@@ -4,7 +4,6 @@ import com.bestmatchedrestaurantsadrianosotos.demo.core.domains.Restaurant.Resta
 import com.bestmatchedrestaurantsadrianosotos.demo.core.domains.Restaurant.services.FindRestaurants;
 import com.bestmatchedrestaurantsadrianosotos.demo.core.domains.Restaurant.services.SortRestaurants;
 import com.bestmatchedrestaurantsadrianosotos.demo.core.domains.SearchCriteria.SearchCriteria;
-import com.bestmatchedrestaurantsadrianosotos.demo.external.services.SelectNthRestaurants;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
